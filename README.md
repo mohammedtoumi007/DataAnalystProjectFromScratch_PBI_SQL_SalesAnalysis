@@ -14,5 +14,6 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 ![Data Modeling](https://user-images.githubusercontent.com/55878755/218213632-2b34b9d8-eb6b-41be-995f-dd608f24bd89.png)
 
 - Sales Management Dashboard
-The finished sales management dashboard with one page with works as a dashboard and overview, The other page focused on combining tables for necessary details and visualizations to show sales over time, per customers .
+The finished sales management dashboard with one page with works as a dashboard and overview, The other page focused on combining tables for necessary details and visualizations to show sales over time, per customers.
+![dashboard](https://user-images.githubusercontent.com/55878755/218213873-3105c891-a015-4705-9612-a126b51b395d.png)
 
